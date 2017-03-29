@@ -1,3 +1,7 @@
+# IMPORTANT: This template is now maintained in the [Azure Quickstart Templates repository](https://github.com/Azure/azure-quickstart-templates/tree/master/guacamole-rdp-vnc-gateway-existing-vnet)
+
+
+
 # Guacamole VM in existing VNet
 
 This template deploys a VM with [Guacamole](http://guac-dev.org), the open source HTML5 RDP/VNC proxy.
